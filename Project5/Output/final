@@ -1,0 +1,8 @@
+FLOW 1 METRICS:
+Average RTT latency = 31.9390804598 ms
+Jitter = 13.4546511628 ms
+
+FLOW 2 METRICS:
+Throughput from client: 5.37 Mbits/sec
+Throughput from server: 5.00 Mbits/sec
+PacketLoss: 7%)

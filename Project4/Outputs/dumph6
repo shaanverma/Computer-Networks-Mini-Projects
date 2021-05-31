@@ -1,0 +1,1075 @@
+Hosth6
+#######################
+
+22:40:09.255801 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:09.625557 IP6 fe80::c86:76ff:fe35:e9b7 > ff02::2: ICMP6, router solicitation, length 16
+22:40:09.628299 IP6 fe80::2823:2bff:fe66:ddb8 > ff02::2: ICMP6, router solicitation, length 16
+22:40:10.163600 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::2: ICMP6, router solicitation, length 16
+22:40:10.300548 IP6 fe80::40b7:f3ff:fe57:e580 > ff02::2: ICMP6, router solicitation, length 16
+22:40:10.421866 IP6 fe80::38f0:57ff:fe3e:e67 > ff02::2: ICMP6, router solicitation, length 16
+22:40:11.311729 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 92:d8:5f:1c:de:3f, length 300
+22:40:16.117142 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:17.255679 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:20.985130 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from d2:1a:a8:b4:a0:aa, length 300
+22:40:21.477691 LLDP, length 47
+22:40:21.743805 92:d8:5f:1c:de:3f > ff:ff:ff:ff:ff:ff, ethertype Unknown (0x8942), length 69: 
+	0x0000:  2000 0604 0002 0000 0207 0400 0000 0000  ................
+	0x0010:  0d04 0302 0003 0602 0078 fe0c 0026 e100  .........x...&..
+	0x0020:  0000 0000 0000 000d 1808 0031 3791 7786  ...........17.w.
+	0x0030:  1ff2 e601 0100 00                        .......
+22:40:22.333874 ARP, Request who-has 10.0.0.7 tell 10.0.0.1, length 28
+22:40:22.756808 ARP, Request who-has 10.0.0.8 tell 10.0.0.1, length 28
+22:40:28.527129 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 96:23:61:d6:2e:ac, length 300
+22:40:28.682835 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 92:d8:5f:1c:de:3f, length 300
+22:40:28.806713 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 6e:a3:42:bd:4b:61, length 300
+22:40:29.774693 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:29.962948 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:30.371048 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:31.737721 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from d2:1a:a8:b4:a0:aa, length 300
+22:40:32.113963 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:33.256456 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:33.396523 ARP, Request who-has 10.0.0.3 tell 10.0.0.2, length 28
+22:40:33.826450 ARP, Request who-has 10.0.0.4 tell 10.0.0.2, length 28
+22:40:34.282694 ARP, Request who-has 10.0.0.5 tell 10.0.0.2, length 28
+22:40:34.720681 ARP, Request who-has 10.0.0.6 tell 10.0.0.2, length 28
+22:40:34.721909 ARP, Reply 10.0.0.6 is-at 42:b7:f3:57:e5:80, length 28
+22:40:34.776021 IP 10.0.0.2 > 10.0.0.6: ICMP echo request, id 4028, seq 1, length 64
+22:40:34.777287 IP 10.0.0.6 > 10.0.0.2: ICMP echo reply, id 4028, seq 1, length 64
+22:40:35.146782 ARP, Request who-has 10.0.0.7 tell 10.0.0.2, length 28
+22:40:35.362357 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 4e:a6:54:d1:d4:f0, length 300
+22:40:35.762004 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 96:23:61:d6:2e:ac, length 300
+22:40:35.803940 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 6e:a3:42:bd:4b:61, length 300
+22:40:36.514305 LLDP, length 47
+22:40:36.577845 ARP, Request who-has 10.0.0.8 tell 10.0.0.2, length 28
+22:40:36.796101 92:d8:5f:1c:de:3f > ff:ff:ff:ff:ff:ff, ethertype Unknown (0x8942), length 69: 
+	0x0000:  2000 0604 0002 0000 0207 0400 0000 0000  ................
+	0x0010:  0d04 0302 0003 0602 0078 fe0c 0026 e100  .........x...&..
+	0x0020:  0000 0000 0000 000d 1808 0031 3791 7786  ...........17.w.
+	0x0030:  1ff2 e601 0100 00                        .......
+22:40:37.744709 ARP, Request who-has 10.0.0.4 tell 10.0.0.3, length 28
+22:40:38.172006 ARP, Request who-has 10.0.0.5 tell 10.0.0.3, length 28
+22:40:38.578619 ARP, Request who-has 10.0.0.6 tell 10.0.0.3, length 28
+22:40:38.580564 ARP, Reply 10.0.0.6 is-at 42:b7:f3:57:e5:80, length 28
+22:40:38.634254 IP 10.0.0.3 > 10.0.0.6: ICMP echo request, id 4035, seq 1, length 64
+22:40:38.635498 IP 10.0.0.6 > 10.0.0.3: ICMP echo reply, id 4035, seq 1, length 64
+22:40:38.983091 ARP, Request who-has 10.0.0.7 tell 10.0.0.3, length 28
+22:40:39.251033 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from d2:1a:a8:b4:a0:aa, length 300
+22:40:39.385951 ARP, Request who-has 10.0.0.8 tell 10.0.0.3, length 28
+22:40:39.794920 ARP, Request who-has 10.0.0.1 tell 10.0.0.4, length 28
+22:40:45.432640 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 92:d8:5f:1c:de:3f, length 300
+22:40:49.375855 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:40:49.431688 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:40:49.454399 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:40:49.454466 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:40:49.526077 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:40:49.554058 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:40:49.585623 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:40:49.621386 IP6 :: > ff02::1:ffd6:2eac: ICMP6, neighbor solicitation, who has fe80::9423:61ff:fed6:2eac, length 24
+22:40:49.621412 IP6 :: > ff02::1:ffbd:4b61: ICMP6, neighbor solicitation, who has fe80::6ca3:42ff:febd:4b61, length 24
+22:40:49.695675 IP6 :: > ff02::1:ff1c:de3f: ICMP6, neighbor solicitation, who has fe80::90d8:5fff:fe1c:de3f, length 24
+22:40:49.708859 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:40:49.941813 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:40:49.969236 IP6 :: > ff02::1:ffd1:d4f0: ICMP6, neighbor solicitation, who has fe80::4ca6:54ff:fed1:d4f0, length 24
+22:40:50.066061 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:50.222026 IP6 :: > ff02::1:ffb4:a0aa: ICMP6, neighbor solicitation, who has fe80::d01a:a8ff:feb4:a0aa, length 24
+22:40:50.392955 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:50.410058 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:50.438586 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. (117)
+22:40:50.512628 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? c.a.e.2.6.d.e.f.f.f.1.6.3.2.4.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:50.611003 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:50.651091 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:50.651116 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:50.655943 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. (117)
+22:40:50.695541 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:50.703666 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:50.725840 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 1.6.b.4.d.b.e.f.f.f.2.4.3.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:50.761271 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. (117)
+22:40:50.772970 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:50.792458 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? f.3.e.d.c.1.e.f.f.f.f.5.8.d.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:50.798516 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:50.939330 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? c.a.e.2.6.d.e.f.f.f.1.6.3.2.4.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:51.039001 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? f.3.e.d.c.1.e.f.f.f.f.5.8.d.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:51.117465 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 1.6.b.4.d.b.e.f.f.f.2.4.3.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:51.117491 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:51.118077 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:51.119071 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:51.203643 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:51.304034 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? f.3.e.d.c.1.e.f.f.f.f.5.8.d.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:51.443480 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:40:51.501918 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::90d8:5fff:fe1c:de3f, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:40:51.538075 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:51.538264 ARP, Request who-has 10.0.0.5 tell 10.0.0.4, length 28
+22:40:51.538343 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. (117)
+22:40:51.538369 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? c.a.e.2.6.d.e.f.f.f.1.6.3.2.4.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:51.608044 LLDP, length 47
+22:40:51.721318 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 0.f.4.d.1.d.e.f.f.f.4.5.6.a.c.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:51.721346 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:51.744381 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 1.6.b.4.d.b.e.f.f.f.2.4.3.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:51.796153 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. (117)
+22:40:51.817769 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:51.918285 92:d8:5f:1c:de:3f > ff:ff:ff:ff:ff:ff, ethertype Unknown (0x8942), length 69: 
+	0x0000:  2000 0604 0002 0000 0207 0400 0000 0000  ................
+	0x0010:  0d04 0302 0003 0602 0078 fe0c 0026 e100  .........x...&..
+	0x0020:  0000 0000 0000 000d 1808 0031 3791 7786  ...........17.w.
+	0x0030:  1ff2 e601 0100 00                        .......
+22:40:51.919048 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:40:51.919074 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:51.923984 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:51.924009 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:40:51.924035 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. (117)
+22:40:51.990637 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::9423:61ff:fed6:2eac, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:40:51.990677 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 0.f.4.d.1.d.e.f.f.f.4.5.6.a.c.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:51.990873 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:40:51.990900 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. (117)
+22:40:51.991242 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? a.a.0.a.4.b.e.f.f.f.8.a.a.1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:51.991269 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:52.528293 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::90d8:5fff:fe1c:de3f, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:40:52.912154 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:52.912423 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:52.912449 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:40:52.912475 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:40:52.995363 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:53.001394 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? a.a.0.a.4.b.e.f.f.f.8.a.a.1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:53.026706 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? a.a.0.a.4.b.e.f.f.f.8.a.a.1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:53.088219 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. (117)
+22:40:53.091190 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:53.100686 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 0.f.4.d.1.d.e.f.f.f.4.5.6.a.c.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:53.463453 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:53.603567 IP6 :: > ff02::1:ff1c:de3f: ICMP6, neighbor solicitation, who has fe80::90d8:5fff:fe1c:de3f, length 24
+22:40:53.604314 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 92:d8:5f:1c:de:3f, length 300
+22:40:53.800545 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0 (110)
+22:40:53.800580 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 3/0/0 (Cache flush) HINFO, (Cache flush) AAAA fe80::4ca6:54ff:fed1:d4f0, (Cache flush) PTR floodlight.local. (167)
+22:40:53.800615 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::d01a:a8ff:feb4:a0aa, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:40:53.800649 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:53.800684 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. (117)
+22:40:53.800719 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:40:53.800754 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. (117)
+22:40:53.801446 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:53.851592 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:54.281227 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:54.328755 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:54.330895 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 4e:a6:54:d1:d4:f0, length 300
+22:40:54.366854 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::9423:61ff:fed6:2eac, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:40:54.372596 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:54.372993 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 6e:a3:42:bd:4b:61, length 300
+22:40:54.373155 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:54.373191 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from d2:1a:a8:b4:a0:aa, length 300
+22:40:54.373226 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:54.373260 ARP, Request who-has 10.0.0.6 tell 10.0.0.4, length 28
+22:40:54.373296 IP6 :: > ff02::1:ffbd:4b61: ICMP6, neighbor solicitation, who has fe80::6ca3:42ff:febd:4b61, length 24
+22:40:54.374687 ARP, Reply 10.0.0.6 is-at 42:b7:f3:57:e5:80, length 28
+22:40:54.375179 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:40:54.603638 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:54.603674 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::2: ICMP6, router solicitation, length 16
+22:40:54.611577 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:54.668905 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. (117)
+22:40:54.696759 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? f.3.e.d.c.1.e.f.f.f.f.5.8.d.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:54.708389 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:54.907601 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:54.931477 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:40:54.941039 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? f.3.e.d.c.1.e.f.f.f.f.5.8.d.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:55.195959 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? f.3.e.d.c.1.e.f.f.f.f.5.8.d.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:55.260487 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:40:55.276392 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 96:23:61:d6:2e:ac, length 300
+22:40:55.276427 IP6 :: > ff02::1:ffd6:2eac: ICMP6, neighbor solicitation, who has fe80::9423:61ff:fed6:2eac, length 24
+22:40:55.276507 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:55.276555 IP6 :: > ff02::1:ffd1:d4f0: ICMP6, neighbor solicitation, who has fe80::4ca6:54ff:fed1:d4f0, length 24
+22:40:55.276591 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:55.276626 ARP, Request who-has 10.0.0.6 tell 10.0.0.4, length 28
+22:40:55.277050 IP6 :: > ff02::1:ffb4:a0aa: ICMP6, neighbor solicitation, who has fe80::d01a:a8ff:feb4:a0aa, length 24
+22:40:55.277085 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:55.277120 IP6 fe80::9423:61ff:fed6:2eac > ff02::2: ICMP6, router solicitation, length 16
+22:40:55.278230 ARP, Reply 10.0.0.6 is-at 42:b7:f3:57:e5:80, length 28
+22:40:55.345052 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:55.345854 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. (117)
+22:40:55.345890 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:55.345925 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:40:55.345961 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:55.396551 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::90d8:5fff:fe1c:de3f, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:40:55.597163 IP 10.0.0.4 > 10.0.0.6: ICMP echo request, id 4055, seq 1, length 64
+22:40:55.598299 IP 10.0.0.6 > 10.0.0.4: ICMP echo reply, id 4055, seq 1, length 64
+22:40:55.700438 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. (117)
+22:40:55.708414 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:55.784922 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? c.a.e.2.6.d.e.f.f.f.1.6.3.2.4.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:55.785350 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:55.785385 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::2: ICMP6, router solicitation, length 16
+22:40:55.785420 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:55.785481 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. (117)
+22:40:55.785553 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 1.6.b.4.d.b.e.f.f.f.2.4.3.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:55.786241 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:55.788581 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:55.788743 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::2: ICMP6, router solicitation, length 16
+22:40:55.788777 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:55.788936 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. (117)
+22:40:55.813374 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? a.a.0.a.4.b.e.f.f.f.8.a.a.1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:55.825898 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 1.6.b.4.d.b.e.f.f.f.2.4.3.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:56.199039 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:56.199406 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::2: ICMP6, router solicitation, length 16
+22:40:56.205486 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:56.207177 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. (117)
+22:40:56.207213 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 0.f.4.d.1.d.e.f.f.f.4.5.6.a.c.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:56.207247 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:56.207498 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:40:56.212170 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 0.f.4.d.1.d.e.f.f.f.4.5.6.a.c.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:56.212205 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? c.a.e.2.6.d.e.f.f.f.1.6.3.2.4.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:56.212240 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::9423:61ff:fed6:2eac, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:40:56.227213 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 0.f.4.d.1.d.e.f.f.f.4.5.6.a.c.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:56.244259 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 1.6.b.4.d.b.e.f.f.f.2.4.3.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:56.244294 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:40:56.244329 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:56.244364 ARP, Request who-has 10.0.0.6 tell 10.0.0.4, length 28
+22:40:56.244970 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? a.a.0.a.4.b.e.f.f.f.8.a.a.1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:56.245006 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:40:56.245041 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? a.a.0.a.4.b.e.f.f.f.8.a.a.1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:40:56.245076 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:56.245111 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. (117)
+22:40:56.245643 ARP, Reply 10.0.0.6 is-at 42:b7:f3:57:e5:80, length 28
+22:40:56.253376 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:56.253411 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::4ca6:54ff:fed1:d4f0, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:40:56.253446 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:56.253481 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. (117)
+22:40:56.253516 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:56.253551 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. (117)
+22:40:56.337343 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 92:d8:5f:1c:de:3f, length 300
+22:40:56.426074 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::90d8:5fff:fe1c:de3f, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:40:56.521210 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 4e:a6:54:d1:d4:f0, length 300
+22:40:56.542745 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:56.548699 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::9423:61ff:fed6:2eac, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:40:56.548862 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 3/0/0 (Cache flush) TXT "", (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (135)
+22:40:56.548898 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 (Cache flush) PTR floodlight.local., (Cache flush) AAAA fe80::d01a:a8ff:feb4:a0aa (142)
+22:40:56.548932 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:40:56.548967 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. (117)
+22:40:56.549003 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:56.549038 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 96:23:61:d6:2e:ac, length 300
+22:40:56.549504 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::4ca6:54ff:fed1:d4f0, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:40:56.637717 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:40:56.660201 ARP, Request who-has 10.0.0.7 tell 10.0.0.4, length 28
+22:40:56.879285 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:56.901159 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::9423:61ff:fed6:2eac (189)
+22:40:56.924879 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 6e:a3:42:bd:4b:61, length 300
+22:40:57.202257 ARP, Request who-has 10.0.0.8 tell 10.0.0.4, length 28
+22:40:57.311316 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:57.362318 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::4ca6:54ff:fed1:d4f0 (189)
+22:40:57.561856 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::9423:61ff:fed6:2eac, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:40:57.639020 ARP, Request who-has 10.0.0.1 tell 10.0.0.5, length 28
+22:40:57.708459 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:57.726513 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::90d8:5fff:fe1c:de3f (189)
+22:40:57.776894 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:57.812927 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61 (189)
+22:40:57.901207 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:40:57.921951 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::d01a:a8ff:feb4:a0aa (189)
+22:40:58.025032 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::4ca6:54ff:fed1:d4f0, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:40:58.178798 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::2: ICMP6, router solicitation, length 16
+22:40:58.455271 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::90d8:5fff:fe1c:de3f, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:40:58.532462 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:40:58.611537 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::2: ICMP6, router solicitation, length 16
+22:40:58.634049 ARP, Request who-has 10.0.0.1 tell 10.0.0.5, length 28
+22:40:58.646571 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::d01a:a8ff:feb4:a0aa, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:40:58.727872 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::2: ICMP6, router solicitation, length 16
+22:40:58.796146 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::2: ICMP6, router solicitation, length 16
+22:40:59.482318 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 4e:a6:54:d1:d4:f0, length 300
+22:41:00.136853 ARP, Request who-has 10.0.0.6 tell 10.0.0.5, length 28
+22:41:00.138169 ARP, Reply 10.0.0.6 is-at 42:b7:f3:57:e5:80, length 28
+22:41:00.182873 IP 10.0.0.5 > 10.0.0.6: ICMP echo request, id 4123, seq 1, length 64
+22:41:00.184103 IP 10.0.0.6 > 10.0.0.5: ICMP echo reply, id 4123, seq 1, length 64
+22:41:00.410531 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from d2:1a:a8:b4:a0:aa, length 300
+22:41:00.529538 ARP, Request who-has 10.0.0.7 tell 10.0.0.5, length 28
+22:41:00.811048 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:01.272004 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:01.711258 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:01.733300 IP6 fe80::9423:61ff:fed6:2eac > ff02::2: ICMP6, router solicitation, length 16
+22:41:01.776315 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:01.892842 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:02.186018 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::2: ICMP6, router solicitation, length 16
+22:41:02.619498 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::2: ICMP6, router solicitation, length 16
+22:41:02.687763 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::2: ICMP6, router solicitation, length 16
+22:41:02.742937 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 96:23:61:d6:2e:ac, length 300
+22:41:02.803347 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::2: ICMP6, router solicitation, length 16
+22:41:03.284243 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 92:d8:5f:1c:de:3f, length 300
+22:41:03.509604 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 6e:a3:42:bd:4b:61, length 300
+22:41:04.519066 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 4e:a6:54:d1:d4:f0, length 300
+22:41:06.625378 LLDP, length 47
+22:41:06.903859 92:d8:5f:1c:de:3f > ff:ff:ff:ff:ff:ff, ethertype Unknown (0x8942), length 69: 
+	0x0000:  2000 0604 0002 0000 0207 0400 0000 0000  ................
+	0x0010:  0d04 0302 0003 0602 0078 fe0c 0026 e100  .........x...&..
+	0x0020:  0000 0000 0000 000d 1808 0031 3791 7786  ...........17.w.
+	0x0030:  1ff2 e601 0100 00                        .......
+22:41:07.396275 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from d2:1a:a8:b4:a0:aa, length 300
+22:41:08.812403 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:09.288660 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:09.500549 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 96:23:61:d6:2e:ac, length 300
+22:41:09.710604 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:09.781047 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:09.894605 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:10.834320 ARP, Request who-has 10.0.0.8 tell 10.0.0.5, length 28
+22:41:11.221238 ARP, Request who-has 10.0.0.1 tell 10.0.0.6, length 28
+22:41:11.271085 ARP, Reply 10.0.0.1 is-at c2:72:34:72:f2:5b, length 28
+22:41:11.272422 IP 10.0.0.6 > 10.0.0.1: ICMP echo request, id 4126, seq 1, length 64
+22:41:11.306280 IP 10.0.0.1 > 10.0.0.6: ICMP echo reply, id 4126, seq 1, length 64
+22:41:12.473362 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 4e:a6:54:d1:d4:f0, length 300
+22:41:16.299014 ARP, Request who-has 10.0.0.6 tell 10.0.0.1, length 28
+22:41:16.300329 ARP, Reply 10.0.0.6 is-at 42:b7:f3:57:e5:80, length 28
+22:41:16.627730 ARP, Request who-has 10.0.0.2 tell 10.0.0.6, length 28
+22:41:16.674667 ARP, Reply 10.0.0.2 is-at 22:ae:0f:90:01:17, length 28
+22:41:16.697299 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 92:d8:5f:1c:de:3f, length 300
+22:41:17.176922 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 6e:a3:42:bd:4b:61, length 300
+22:41:20.415890 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from d2:1a:a8:b4:a0:aa, length 300
+22:41:20.825537 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 4e:a6:54:d1:d4:f0, length 300
+22:41:21.643366 LLDP, length 47
+22:41:21.842821 92:d8:5f:1c:de:3f > ff:ff:ff:ff:ff:ff, ethertype Unknown (0x8942), length 69: 
+	0x0000:  2000 0604 0002 0000 0207 0400 0000 0000  ................
+	0x0010:  0d04 0302 0003 0602 0078 fe0c 0026 e100  .........x...&..
+	0x0020:  0000 0000 0000 000d 1808 0031 3791 7786  ...........17.w.
+	0x0030:  1ff2 e601 0100 00                        .......
+22:41:21.915593 IP 10.0.0.6 > 10.0.0.3: ICMP echo request, id 4128, seq 1, length 64
+22:41:21.945093 IP 10.0.0.3 > 10.0.0.6: ICMP echo reply, id 4128, seq 1, length 64
+22:41:22.249683 IP 10.0.0.6 > 10.0.0.4: ICMP echo request, id 4129, seq 1, length 64
+22:41:22.302371 IP 10.0.0.4 > 10.0.0.6: ICMP echo reply, id 4129, seq 1, length 64
+22:41:22.608412 IP 10.0.0.6 > 10.0.0.5: ICMP echo request, id 4130, seq 1, length 64
+22:41:22.661793 IP 10.0.0.5 > 10.0.0.6: ICMP echo reply, id 4130, seq 1, length 64
+22:41:22.966540 ARP, Request who-has 10.0.0.7 tell 10.0.0.6, length 28
+22:41:22.980462 ARP, Reply 10.0.0.7 is-at 2a:23:2b:66:dd:b8, length 28
+22:41:24.810470 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:24.883909 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 6e:a3:42:bd:4b:61, length 300
+22:41:25.054039 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 92:d8:5f:1c:de:3f, length 300
+22:41:25.280477 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:25.712940 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:25.780433 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:25.898292 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:26.933470 ARP, Request who-has 10.0.0.3 tell 10.0.0.6, length 28
+22:41:26.982261 ARP, Reply 10.0.0.3 is-at 62:52:cd:31:e2:b5, length 28
+22:41:27.251854 ARP, Request who-has 10.0.0.4 tell 10.0.0.6, length 28
+22:41:27.284308 ARP, Reply 10.0.0.4 is-at 0e:86:76:35:e9:b7, length 28
+22:41:27.619712 ARP, Request who-has 10.0.0.5 tell 10.0.0.6, length 28
+22:41:27.637102 ARP, Reply 10.0.0.5 is-at 9e:70:ab:3e:15:eb, length 28
+22:41:30.113266 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 4e:a6:54:d1:d4:f0, length 300
+22:41:31.933506 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 96:23:61:d6:2e:ac, length 300
+22:41:33.272722 ARP, Request who-has 10.0.0.8 tell 10.0.0.6, length 28
+22:41:33.294243 ARP, Reply 10.0.0.8 is-at 3a:f0:57:3e:0e:67, length 28
+22:41:33.295383 IP 10.0.0.6 > 10.0.0.8: ICMP echo request, id 4132, seq 1, length 64
+22:41:36.030590 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 6e:a3:42:bd:4b:61, length 300
+22:41:36.663180 LLDP, length 47
+22:41:36.898059 92:d8:5f:1c:de:3f > ff:ff:ff:ff:ff:ff, ethertype Unknown (0x8942), length 69: 
+	0x0000:  2000 0604 0002 0000 0207 0400 0000 0000  ................
+	0x0010:  0d04 0302 0003 0602 0078 fe0c 0026 e100  .........x...&..
+	0x0020:  0000 0000 0000 000d 1808 0031 3791 7786  ...........17.w.
+	0x0030:  1ff2 e601 0100 00                        .......
+22:41:37.252268 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 92:d8:5f:1c:de:3f, length 300
+22:41:38.520314 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:41:38.536850 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:41:38.544609 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:41:38.544643 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:41:38.660408 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:41:38.667824 IP6 :: > ff02::1:ffd1:d4f0: ICMP6, neighbor solicitation, who has fe80::4ca6:54ff:fed1:d4f0, length 24
+22:41:38.696897 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:38.752278 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:41:38.968605 IP6 :: > ff02::1:ffbd:4b61: ICMP6, neighbor solicitation, who has fe80::6ca3:42ff:febd:4b61, length 24
+22:41:39.031639 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:41:39.072389 IP6 :: > ff02::1:ffb4:a0aa: ICMP6, neighbor solicitation, who has fe80::d01a:a8ff:feb4:a0aa, length 24
+22:41:39.152295 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:41:39.199257 IP6 :: > ff02::1:ffd6:2eac: ICMP6, neighbor solicitation, who has fe80::9423:61ff:fed6:2eac, length 24
+22:41:39.649432 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:39.661295 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:39.731496 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:41:39.741741 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:39.764089 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:41:39.907512 IP6 :: > ff02::1:ff1c:de3f: ICMP6, neighbor solicitation, who has fe80::90d8:5fff:fe1c:de3f, length 24
+22:41:39.930987 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 0.f.4.d.1.d.e.f.f.f.4.5.6.a.c.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:39.978428 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:40.003189 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:40.164872 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:40.193616 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:40.227067 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:40.325680 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:40.325706 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 0.f.4.d.1.d.e.f.f.f.4.5.6.a.c.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:40.325732 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:40.400864 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:40.400889 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 1.6.b.4.d.b.e.f.f.f.2.4.3.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:40.476467 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. (117)
+22:41:40.476492 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? a.a.0.a.4.b.e.f.f.f.8.a.a.1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:40.648337 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:40.648484 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:40.648515 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. (117)
+22:41:40.648540 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:41:40.722037 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 0.f.4.d.1.d.e.f.f.f.4.5.6.a.c.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:40.722063 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 1.6.b.4.d.b.e.f.f.f.2.4.3.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:40.819314 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? c.a.e.2.6.d.e.f.f.f.1.6.3.2.4.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:40.819339 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. (117)
+22:41:40.828806 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:40.828831 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? a.a.0.a.4.b.e.f.f.f.8.a.a.1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:40.828857 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:40.884701 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::4ca6:54ff:fed1:d4f0, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:41:40.907560 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:40.913186 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? c.a.e.2.6.d.e.f.f.f.1.6.3.2.4.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:40.913212 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 1.6.b.4.d.b.e.f.f.f.2.4.3.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:40.915486 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:40.934269 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:40.934416 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:41:41.008896 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? a.a.0.a.4.b.e.f.f.f.8.a.a.1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:41.008922 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:41:41.010732 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:41.047492 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:41.183093 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? f.3.e.d.c.1.e.f.f.f.f.5.8.d.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:41.237567 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. (117)
+22:41:41.418832 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:41:41.441362 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? f.3.e.d.c.1.e.f.f.f.f.5.8.d.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:41.700318 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? f.3.e.d.c.1.e.f.f.f.f.5.8.d.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:41.824408 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:41:41.892973 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::90d8:5fff:fe1c:de3f, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:41:42.011162 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:42.096540 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::d01a:a8ff:feb4:a0aa, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:41:42.161987 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? c.a.e.2.6.d.e.f.f.f.1.6.3.2.4.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:42.168081 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:42.168107 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:42.168133 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61 (189)
+22:41:42.443670 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:42.490322 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 92:d8:5f:1c:de:3f, length 300
+22:41:42.632631 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:42.632689 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::4ca6:54ff:fed1:d4f0 (189)
+22:41:42.632724 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::9423:61ff:fed6:2eac, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:41:42.632760 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:41:42.632796 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:42.634684 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:42.661129 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::d01a:a8ff:feb4:a0aa (189)
+22:41:42.695440 IP6 :: > ff02::1:ff1c:de3f: ICMP6, neighbor solicitation, who has fe80::90d8:5fff:fe1c:de3f, length 24
+22:41:42.804099 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 6e:a3:42:bd:4b:61, length 300
+22:41:42.804134 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 96:23:61:d6:2e:ac, length 300
+22:41:42.804169 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 4e:a6:54:d1:d4:f0, length 300
+22:41:42.804204 IP6 :: > ff02::1:ffd1:d4f0: ICMP6, neighbor solicitation, who has fe80::4ca6:54ff:fed1:d4f0, length 24
+22:41:42.804564 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:42.820963 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:42.820998 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from d2:1a:a8:b4:a0:aa, length 300
+22:41:42.821033 IP6 :: > ff02::1:ffb4:a0aa: ICMP6, neighbor solicitation, who has fe80::d01a:a8ff:feb4:a0aa, length 24
+22:41:42.836473 IP6 :: > ff02::1:ffbd:4b61: ICMP6, neighbor solicitation, who has fe80::6ca3:42ff:febd:4b61, length 24
+22:41:42.842298 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:41:42.907554 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:42.991205 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:43.128916 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:43.128965 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::2: ICMP6, router solicitation, length 16
+22:41:43.129000 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:43.145578 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:43.280258 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:43.280293 IP6 fe80::9423:61ff:fed6:2eac > ff02::2: ICMP6, router solicitation, length 16
+22:41:43.280328 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:43.484889 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 0.f.4.d.1.d.e.f.f.f.4.5.6.a.c.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:43.484924 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:43.510231 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::2: ICMP6, router solicitation, length 16
+22:41:43.510317 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:43.510408 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. (117)
+22:41:43.510772 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:43.510808 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:43.510972 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:41:43.556468 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:41:43.556503 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 0.f.4.d.1.d.e.f.f.f.4.5.6.a.c.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:43.611483 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? c.a.e.2.6.d.e.f.f.f.1.6.3.2.4.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:43.690262 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:43.695507 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:43.695543 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::2: ICMP6, router solicitation, length 16
+22:41:43.704088 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:43.716970 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::2: ICMP6, router solicitation, length 16
+22:41:43.717005 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? a.a.0.a.4.b.e.f.f.f.8.a.a.1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:43.736994 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. (117)
+22:41:43.738043 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:43.785896 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. (117)
+22:41:43.785931 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:43.786249 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? c.a.e.2.6.d.e.f.f.f.1.6.3.2.4.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:43.786586 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 0.f.4.d.1.d.e.f.f.f.4.5.6.a.c.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:43.806840 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:43.844358 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:41:43.971981 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? f.3.e.d.c.1.e.f.f.f.f.5.8.d.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:43.973759 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:41:43.973869 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 1.6.b.4.d.b.e.f.f.f.2.4.3.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:43.974029 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? a.a.0.a.4.b.e.f.f.f.8.a.a.1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:44.003564 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:44.026632 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. (117)
+22:41:44.076325 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:41:44.076361 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:44.138012 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::4ca6:54ff:fed1:d4f0, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:41:44.138046 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? a.a.0.a.4.b.e.f.f.f.8.a.a.1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:44.138082 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? c.a.e.2.6.d.e.f.f.f.1.6.3.2.4.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:44.181981 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:44.182016 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 1.6.b.4.d.b.e.f.f.f.2.4.3.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:44.234271 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? f.3.e.d.c.1.e.f.f.f.f.5.8.d.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:44.277019 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from d2:1a:a8:b4:a0:aa, length 300
+22:41:44.277378 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:44.317285 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::9423:61ff:fed6:2eac, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:41:44.348268 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 3/0/0 (Cache flush) TXT "", (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (135)
+22:41:44.348303 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 (Cache flush) PTR floodlight.local., (Cache flush) AAAA fe80::d01a:a8ff:feb4:a0aa (142)
+22:41:44.454828 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:41:44.454863 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 96:23:61:d6:2e:ac, length 300
+22:41:44.454898 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:44.454933 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 1.6.b.4.d.b.e.f.f.f.2.4.3.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:44.454968 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:44.486321 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? f.3.e.d.c.1.e.f.f.f.f.5.8.d.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:41:44.540750 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::4ca6:54ff:fed1:d4f0 (189)
+22:41:44.550064 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:41:44.638032 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:44.680920 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::9423:61ff:fed6:2eac (189)
+22:41:44.685667 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0 (110)
+22:41:44.696441 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 3/0/0 (Cache flush) HINFO, (Cache flush) AAAA fe80::90d8:5fff:fe1c:de3f, (Cache flush) PTR floodlight.local. (167)
+22:41:44.796997 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:44.832191 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 6e:a3:42:bd:4b:61, length 300
+22:41:45.072486 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61 (189)
+22:41:45.098293 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::4ca6:54ff:fed1:d4f0, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:41:45.238319 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 92:d8:5f:1c:de:3f, length 300
+22:41:45.239809 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::90d8:5fff:fe1c:de3f (189)
+22:41:45.329280 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::9423:61ff:fed6:2eac, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:41:45.452243 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 4/0/0 (Cache flush) TXT "", (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::d01a:a8ff:feb4:a0aa (163)
+22:41:45.456826 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 1/0/0 (Cache flush) PTR floodlight.local. (114)
+22:41:45.720139 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:41:45.898878 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 3/0/0 (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::90d8:5fff:fe1c:de3f (138)
+22:41:45.909876 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 (Cache flush) HINFO, (Cache flush) PTR floodlight.local. (139)
+22:41:45.946753 IP 10.0.0.7 > 10.0.0.6: ICMP echo request, id 4208, seq 1, length 64
+22:41:45.948185 IP 10.0.0.6 > 10.0.0.7: ICMP echo reply, id 4208, seq 1, length 64
+22:41:46.018765 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:46.246713 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:46.276306 ARP, Request who-has 10.0.0.8 tell 10.0.0.7, length 28
+22:41:46.359862 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:46.655312 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:46.676060 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::4ca6:54ff:fed1:d4f0 (189)
+22:41:46.798711 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:46.903845 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::9423:61ff:fed6:2eac (189)
+22:41:46.921559 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::2: ICMP6, router solicitation, length 16
+22:41:47.025911 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::d01a:a8ff:feb4:a0aa (189)
+22:41:47.159259 IP6 fe80::9423:61ff:fed6:2eac > ff02::2: ICMP6, router solicitation, length 16
+22:41:47.259322 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::2: ICMP6, router solicitation, length 16
+22:41:47.294318 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61 (189)
+22:41:47.317854 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::4ca6:54ff:fed1:d4f0, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:41:47.452639 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::90d8:5fff:fe1c:de3f (189)
+22:41:47.541056 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::2: ICMP6, router solicitation, length 16
+22:41:47.541091 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::9423:61ff:fed6:2eac, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:41:47.650655 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 4/0/0 (Cache flush) TXT "", (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::d01a:a8ff:feb4:a0aa (163)
+22:41:47.674281 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 1/0/0 (Cache flush) PTR floodlight.local. (114)
+22:41:47.699616 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::2: ICMP6, router solicitation, length 16
+22:41:47.805212 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 4e:a6:54:d1:d4:f0, length 300
+22:41:47.929176 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:41:48.111877 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 3/0/0 (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::90d8:5fff:fe1c:de3f (138)
+22:41:48.124503 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 (Cache flush) HINFO, (Cache flush) PTR floodlight.local. (139)
+22:41:48.289694 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 6e:a3:42:bd:4b:61, length 300
+22:41:49.787755 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 92:d8:5f:1c:de:3f, length 300
+22:41:50.022321 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:50.359330 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:50.654394 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:50.799524 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:50.921149 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::2: ICMP6, router solicitation, length 16
+22:41:50.952834 ARP, Request who-has 10.0.0.6 tell 10.0.0.7, length 28
+22:41:50.954052 ARP, Reply 10.0.0.6 is-at 42:b7:f3:57:e5:80, length 28
+22:41:51.150887 IP6 fe80::9423:61ff:fed6:2eac > ff02::2: ICMP6, router solicitation, length 16
+22:41:51.260261 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::2: ICMP6, router solicitation, length 16
+22:41:51.545944 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::2: ICMP6, router solicitation, length 16
+22:41:51.687265 LLDP, length 47
+22:41:51.708448 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::2: ICMP6, router solicitation, length 16
+22:41:51.947517 92:d8:5f:1c:de:3f > ff:ff:ff:ff:ff:ff, ethertype Unknown (0x8942), length 69: 
+	0x0000:  2000 0604 0002 0000 0207 0400 0000 0000  ................
+	0x0010:  0d04 0302 0003 0602 0078 fe0c 0026 e100  .........x...&..
+	0x0020:  0000 0000 0000 000d 1808 0031 3791 7786  ...........17.w.
+	0x0030:  1ff2 e601 0100 00                        .......
+22:41:52.107970 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from d2:1a:a8:b4:a0:aa, length 300
+22:41:52.527955 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 96:23:61:d6:2e:ac, length 300
+22:41:53.880948 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 4e:a6:54:d1:d4:f0, length 300
+22:41:54.213675 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 6e:a3:42:bd:4b:61, length 300
+22:41:58.069387 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:58.236166 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:58.358983 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:58.405877 IP 10.0.0.8 > 10.0.0.6: ICMP echo request, id 4215, seq 1, length 64
+22:41:58.407104 IP 10.0.0.6 > 10.0.0.8: ICMP echo reply, id 4215, seq 1, length 64
+22:41:58.576585 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 92:d8:5f:1c:de:3f, length 300
+22:41:58.636429 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:41:58.799915 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:02.947254 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 4e:a6:54:d1:d4:f0, length 300
+22:42:03.368129 ARP, Request who-has 10.0.0.6 tell 10.0.0.8, length 28
+22:42:03.369356 ARP, Reply 10.0.0.6 is-at 42:b7:f3:57:e5:80, length 28
+22:42:06.715060 LLDP, length 47
+22:42:06.928888 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 6e:a3:42:bd:4b:61, length 300
+22:42:07.013743 92:d8:5f:1c:de:3f > ff:ff:ff:ff:ff:ff, ethertype Unknown (0x8942), length 69: 
+	0x0000:  2000 0604 0002 0000 0207 0400 0000 0000  ................
+	0x0010:  0d04 0302 0003 0602 0078 fe0c 0026 e100  .........x...&..
+	0x0020:  0000 0000 0000 000d 1808 0031 3791 7786  ...........17.w.
+	0x0030:  1ff2 e601 0100 00                        .......
+22:42:07.428447 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 96:23:61:d6:2e:ac, length 300
+22:42:07.654104 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 92:d8:5f:1c:de:3f, length 300
+22:42:07.857496 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from d2:1a:a8:b4:a0:aa, length 300
+22:42:14.020796 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:14.239291 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:14.350635 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from d2:1a:a8:b4:a0:aa, length 300
+22:42:14.373763 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:14.637123 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:14.800473 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:20.794882 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 96:23:61:d6:2e:ac, length 300
+22:42:21.735350 LLDP, length 47
+22:42:21.969659 92:d8:5f:1c:de:3f > ff:ff:ff:ff:ff:ff, ethertype Unknown (0x8942), length 69: 
+	0x0000:  2000 0604 0002 0000 0207 0400 0000 0000  ................
+	0x0010:  0d04 0302 0003 0602 0078 fe0c 0026 e100  .........x...&..
+	0x0020:  0000 0000 0000 000d 1808 0031 3791 7786  ...........17.w.
+	0x0030:  1ff2 e601 0100 00                        .......
+22:42:22.282311 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 4e:a6:54:d1:d4:f0, length 300
+22:42:26.248120 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 92:d8:5f:1c:de:3f, length 300
+22:42:27.119082 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 6e:a3:42:bd:4b:61, length 300
+22:42:27.389795 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:27.445727 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:27.523346 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:27.523380 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:27.548272 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:27.801376 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:27.959502 IP6 :: > ff02::1:ffb4:a0aa: ICMP6, neighbor solicitation, who has fe80::d01a:a8ff:feb4:a0aa, length 24
+22:42:28.018348 IP6 :: > ff02::1:ffbd:4b61: ICMP6, neighbor solicitation, who has fe80::6ca3:42ff:febd:4b61, length 24
+22:42:28.063568 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:28.119904 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:28.164601 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:28.233792 IP6 :: > ff02::1:ffd6:2eac: ICMP6, neighbor solicitation, who has fe80::9423:61ff:fed6:2eac, length 24
+22:42:28.244000 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:28.255603 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:28.316769 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 92:d8:5f:1c:de:3f, length 300
+22:42:28.376132 IP6 :: > ff02::1:ffd1:d4f0: ICMP6, neighbor solicitation, who has fe80::4ca6:54ff:fed1:d4f0, length 24
+22:42:28.576719 IP6 :: > ff02::1:ff1c:de3f: ICMP6, neighbor solicitation, who has fe80::90d8:5fff:fe1c:de3f, length 24
+22:42:28.958290 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:28.996223 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:29.011511 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:29.046628 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:29.048230 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:29.499206 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:29.501064 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? a.a.0.a.4.b.e.f.f.f.8.a.a.1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:29.501121 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:29.501155 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:29.575809 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:29.575844 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::2: ICMP6, router solicitation, length 16
+22:42:29.587540 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:29.648359 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. (117)
+22:42:29.662305 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 1.6.b.4.d.b.e.f.f.f.2.4.3.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:29.662662 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. (117)
+22:42:29.662697 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:29.662865 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:29.662901 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:29.688387 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:29.698293 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:29.698542 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:29.698579 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:29.818335 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? f.3.e.d.c.1.e.f.f.f.f.5.8.d.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:29.861136 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. (117)
+22:42:30.055555 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:30.076075 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? f.3.e.d.c.1.e.f.f.f.f.5.8.d.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:30.307615 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:30.333812 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? f.3.e.d.c.1.e.f.f.f.f.5.8.d.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:30.453935 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? a.a.0.a.4.b.e.f.f.f.8.a.a.1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:30.453973 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 1.6.b.4.d.b.e.f.f.f.2.4.3.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:30.454007 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? c.a.e.2.6.d.e.f.f.f.1.6.3.2.4.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:30.454041 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 0.f.4.d.1.d.e.f.f.f.4.5.6.a.c.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:30.454075 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:30.454271 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. (117)
+22:42:30.455366 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:30.455400 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:30.546960 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 3/0/0 (Cache flush) TXT "", (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (135)
+22:42:30.547219 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 (Cache flush) PTR floodlight.local., (Cache flush) AAAA fe80::90d8:5fff:fe1c:de3f (142)
+22:42:30.699999 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:31.039266 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. (117)
+22:42:31.100937 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. (117)
+22:42:31.100972 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:31.101007 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 1.6.b.4.d.b.e.f.f.f.2.4.3.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:31.101041 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? c.a.e.2.6.d.e.f.f.f.1.6.3.2.4.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:31.101450 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 0.f.4.d.1.d.e.f.f.f.4.5.6.a.c.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:31.101485 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? a.a.0.a.4.b.e.f.f.f.8.a.a.1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:31.181445 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 3/0/0 (Cache flush) TXT "", (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (135)
+22:42:31.596626 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 (Cache flush) PTR floodlight.local., (Cache flush) AAAA fe80::d01a:a8ff:feb4:a0aa (142)
+22:42:31.596662 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0 (110)
+22:42:31.596697 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 3/0/0 (Cache flush) HINFO, (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61, (Cache flush) PTR floodlight.local. (167)
+22:42:31.596731 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:31.596766 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? c.a.e.2.6.d.e.f.f.f.1.6.3.2.4.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:31.596801 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 0.f.4.d.1.d.e.f.f.f.4.5.6.a.c.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:31.596835 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::9423:61ff:fed6:2eac, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:42:31.597279 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61 (189)
+22:42:31.713412 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 92:d8:5f:1c:de:3f, length 300
+22:42:31.714251 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 4/0/0 (Cache flush) TXT "", (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::90d8:5fff:fe1c:de3f (163)
+22:42:31.729101 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 1/0/0 (Cache flush) PTR floodlight.local. (114)
+22:42:31.897504 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:31.897540 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:31.897575 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::d01a:a8ff:feb4:a0aa (189)
+22:42:31.897609 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:31.897644 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::4ca6:54ff:fed1:d4f0, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:42:31.897678 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:31.932402 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:31.934252 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:31.940840 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:31.940875 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:31.940910 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 4e:a6:54:d1:d4:f0, length 300
+22:42:31.940944 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 6e:a3:42:bd:4b:61, length 300
+22:42:31.940979 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:31.941013 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:31.941318 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:31.941353 IP6 :: > ff02::1:ffb4:a0aa: ICMP6, neighbor solicitation, who has fe80::d01a:a8ff:feb4:a0aa, length 24
+22:42:32.200682 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from d2:1a:a8:b4:a0:aa, length 300
+22:42:32.200721 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 96:23:61:d6:2e:ac, length 300
+22:42:32.200759 IP6 :: > ff02::1:ffd1:d4f0: ICMP6, neighbor solicitation, who has fe80::4ca6:54ff:fed1:d4f0, length 24
+22:42:32.200798 IP6 :: > ff02::1:ffd6:2eac: ICMP6, neighbor solicitation, who has fe80::9423:61ff:fed6:2eac, length 24
+22:42:32.200836 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:32.200874 IP6 :: > ff02::1:ffbd:4b61: ICMP6, neighbor solicitation, who has fe80::6ca3:42ff:febd:4b61, length 24
+22:42:32.200912 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:32.200962 IP6 fe80::9423:61ff:fed6:2eac > ff02::2: ICMP6, router solicitation, length 16
+22:42:32.236287 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:32.238060 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:32.447398 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::2: ICMP6, router solicitation, length 16
+22:42:32.452127 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:32.452162 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:32.452197 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:32.452232 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:32.463097 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::2: ICMP6, router solicitation, length 16
+22:42:32.463132 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:32.463167 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? c.a.e.2.6.d.e.f.f.f.1.6.3.2.4.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:32.463740 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. (117)
+22:42:32.463775 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 0.f.4.d.1.d.e.f.f.f.4.5.6.a.c.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:32.463810 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. (117)
+22:42:32.463844 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? c.a.e.2.6.d.e.f.f.f.1.6.3.2.4.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:32.689505 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:32.837340 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:32.839261 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? a.a.0.a.4.b.e.f.f.f.8.a.a.1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:32.839384 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. (117)
+22:42:32.855039 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 0.f.4.d.1.d.e.f.f.f.4.5.6.a.c.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:32.855074 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:32.855109 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? c.a.e.2.6.d.e.f.f.f.1.6.3.2.4.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:32.855144 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? a.a.0.a.4.b.e.f.f.f.8.a.a.1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:32.855179 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:32.855551 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::2: ICMP6, router solicitation, length 16
+22:42:32.864183 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:32.864218 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:33.048509 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 0.f.4.d.1.d.e.f.f.f.4.5.6.a.c.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:33.048544 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:33.048579 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:33.048614 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:33.048649 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::9423:61ff:fed6:2eac, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:42:33.048749 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:33.048798 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 3/0/0 (Cache flush) TXT "", (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (135)
+22:42:33.048868 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? a.a.0.a.4.b.e.f.f.f.8.a.a.1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:33.051933 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 (Cache flush) PTR floodlight.local., (Cache flush) AAAA fe80::4ca6:54ff:fed1:d4f0 (142)
+22:42:33.051989 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:42:33.052042 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:42:33.052092 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:33.052152 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 1.6.b.4.d.b.e.f.f.f.2.4.3.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:33.148191 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::d01a:a8ff:feb4:a0aa, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:42:33.148226 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. (117)
+22:42:33.148261 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:33.178248 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:33.228502 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::90d8:5fff:fe1c:de3f (189)
+22:42:33.265449 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 6e:a3:42:bd:4b:61, length 300
+22:42:33.265524 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 1.6.b.4.d.b.e.f.f.f.2.4.3.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:33.337754 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::9423:61ff:fed6:2eac (189)
+22:42:33.337790 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::4ca6:54ff:fed1:d4f0 (189)
+22:42:33.389389 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 1.6.b.4.d.b.e.f.f.f.2.4.3.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:42:33.418970 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 4e:a6:54:d1:d4:f0, length 300
+22:42:33.426988 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::d01a:a8ff:feb4:a0aa (189)
+22:42:33.531987 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 96:23:61:d6:2e:ac, length 300
+22:42:33.587246 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 3/0/0 (Cache flush) TXT "", (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (135)
+22:42:33.587511 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::2: ICMP6, router solicitation, length 16
+22:42:33.612633 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 (Cache flush) PTR floodlight.local., (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61 (142)
+22:42:33.739198 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::9423:61ff:fed6:2eac, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:42:33.765136 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:33.873507 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 1/0/0 (Cache flush) PTR floodlight.local. (114)
+22:42:33.896583 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 4/0/0 (Cache flush) TXT "", (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::90d8:5fff:fe1c:de3f (163)
+22:42:33.911032 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 1/0/0 (Cache flush) PTR floodlight.local. (114)
+22:42:34.083090 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::d01a:a8ff:feb4:a0aa, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:42:34.125764 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61 (189)
+22:42:34.782812 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:34.803981 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 4/0/0 (Cache flush) TXT "", (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61 (163)
+22:42:34.838037 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 1/0/0 (Cache flush) PTR floodlight.local. (114)
+22:42:34.881961 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:35.069803 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:35.370642 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::4ca6:54ff:fed1:d4f0 (189)
+22:42:35.619168 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::d01a:a8ff:feb4:a0aa (189)
+22:42:35.640042 IP6 fe80::9423:61ff:fed6:2eac > ff02::2: ICMP6, router solicitation, length 16
+22:42:35.730250 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::2: ICMP6, router solicitation, length 16
+22:42:35.754364 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:35.935150 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::9423:61ff:fed6:2eac, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:42:35.964510 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::2: ICMP6, router solicitation, length 16
+22:42:36.044398 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 4/0/0 (Cache flush) TXT "", (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::4ca6:54ff:fed1:d4f0 (163)
+22:42:36.053388 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 1/0/0 (Cache flush) PTR floodlight.local. (114)
+22:42:36.264183 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::d01a:a8ff:feb4:a0aa, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:42:36.305899 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61 (189)
+22:42:36.643850 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::2: ICMP6, router solicitation, length 16
+22:42:36.689484 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:36.758947 LLDP, length 47
+22:42:36.928889 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 92:d8:5f:1c:de:3f, length 300
+22:42:36.957050 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 4/0/0 (Cache flush) TXT "", (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61 (163)
+22:42:36.978294 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 1/0/0 (Cache flush) PTR floodlight.local. (114)
+22:42:36.993203 92:d8:5f:1c:de:3f > ff:ff:ff:ff:ff:ff, ethertype Unknown (0x8942), length 69: 
+	0x0000:  2000 0604 0002 0000 0207 0400 0000 0000  ................
+	0x0010:  0d04 0302 0003 0602 0078 fe0c 0026 e100  .........x...&..
+	0x0020:  0000 0000 0000 000d 1808 0031 3791 7786  ...........17.w.
+	0x0030:  1ff2 e601 0100 00                        .......
+22:42:37.125778 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from d2:1a:a8:b4:a0:aa, length 300
+22:42:37.516286 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 4e:a6:54:d1:d4:f0, length 300
+22:42:37.595960 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::2: ICMP6, router solicitation, length 16
+22:42:38.466681 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 96:23:61:d6:2e:ac, length 300
+22:42:38.730670 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:38.840328 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:39.045534 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 6e:a3:42:bd:4b:61, length 300
+22:42:39.070661 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:39.647919 IP6 fe80::9423:61ff:fed6:2eac > ff02::2: ICMP6, router solicitation, length 16
+22:42:39.747035 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::2: ICMP6, router solicitation, length 16
+22:42:39.759877 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:39.971145 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::2: ICMP6, router solicitation, length 16
+22:42:40.654631 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::2: ICMP6, router solicitation, length 16
+22:42:41.950006 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 4e:a6:54:d1:d4:f0, length 300
+22:42:44.693658 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:45.562658 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from d2:1a:a8:b4:a0:aa, length 300
+22:42:46.733574 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:46.837208 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:47.069442 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:47.754629 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:42:48.147157 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 92:d8:5f:1c:de:3f, length 300
+22:42:49.133920 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 4e:a6:54:d1:d4:f0, length 300
+22:42:50.212653 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 96:23:61:d6:2e:ac, length 300
+22:42:51.775712 LLDP, length 47
+22:42:52.031209 92:d8:5f:1c:de:3f > ff:ff:ff:ff:ff:ff, ethertype Unknown (0x8942), length 69: 
+	0x0000:  2000 0604 0002 0000 0207 0400 0000 0000  ................
+	0x0010:  0d04 0302 0003 0602 0078 fe0c 0026 e100  .........x...&..
+	0x0020:  0000 0000 0000 000d 1808 0031 3791 7786  ...........17.w.
+	0x0030:  1ff2 e601 0100 00                        .......
+22:42:52.859187 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 6e:a3:42:bd:4b:61, length 300
+22:42:56.178670 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 92:d8:5f:1c:de:3f, length 300
+22:42:56.215944 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from d2:1a:a8:b4:a0:aa, length 300
+22:43:00.049497 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 4e:a6:54:d1:d4:f0, length 300
+22:43:00.697046 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:02.725186 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:02.845135 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:03.070955 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:03.755788 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:05.323974 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 6e:a3:42:bd:4b:61, length 300
+22:43:05.985096 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 96:23:61:d6:2e:ac, length 300
+22:43:06.793374 LLDP, length 47
+22:43:07.087060 92:d8:5f:1c:de:3f > ff:ff:ff:ff:ff:ff, ethertype Unknown (0x8942), length 69: 
+	0x0000:  2000 0604 0002 0000 0207 0400 0000 0000  ................
+	0x0010:  0d04 0302 0003 0602 0078 fe0c 0026 e100  .........x...&..
+	0x0020:  0000 0000 0000 000d 1808 0031 3791 7786  ...........17.w.
+	0x0030:  1ff2 e601 0100 00                        .......
+22:43:09.663560 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 92:d8:5f:1c:de:3f, length 300
+22:43:11.590893 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 4e:a6:54:d1:d4:f0, length 300
+22:43:13.117532 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from d2:1a:a8:b4:a0:aa, length 300
+22:43:14.235519 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:43:14.744719 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:43:15.173269 IP6 :: > ff02::1:ff1c:de3f: ICMP6, neighbor solicitation, who has fe80::90d8:5fff:fe1c:de3f, length 24
+22:43:15.422794 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 6e:a3:42:bd:4b:61, length 300
+22:43:16.168124 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:43:16.175574 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:43:16.263938 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. (117)
+22:43:16.270881 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:16.272584 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? f.3.e.d.c.1.e.f.f.f.f.5.8.d.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:43:16.524212 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? f.3.e.d.c.1.e.f.f.f.f.5.8.d.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:43:16.556102 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:43:16.776658 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? f.3.e.d.c.1.e.f.f.f.f.5.8.d.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:43:16.977061 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::90d8:5fff:fe1c:de3f, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:43:16.979628 IP6 fe80::90d8:5fff:fe1c:de3f > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:43:17.273910 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:17.316072 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [92:d8:5f:1c:de:3f]._workstation._tcp.local. (117)
+22:43:18.030892 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::90d8:5fff:fe1c:de3f, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:43:19.273685 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:20.083499 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) PTR floodlight.local., (Cache flush) AAAA fe80::90d8:5fff:fe1c:de3f, (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:43:21.413066 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:43:21.501781 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:43:21.544363 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:43:21.565969 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:43:21.574308 IP6 :: > ff02::1:ffd1:d4f0: ICMP6, neighbor solicitation, who has fe80::4ca6:54ff:fed1:d4f0, length 24
+22:43:21.844709 LLDP, length 47
+22:43:21.886015 IP6 :: > ff02::1:ffb4:a0aa: ICMP6, neighbor solicitation, who has fe80::d01a:a8ff:feb4:a0aa, length 24
+22:43:21.886414 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:43:22.053124 92:d8:5f:1c:de:3f > ff:ff:ff:ff:ff:ff, ethertype Unknown (0x8942), length 69: 
+	0x0000:  2000 0604 0002 0000 0207 0400 0000 0000  ................
+	0x0010:  0d04 0302 0003 0602 0078 fe0c 0026 e100  .........x...&..
+	0x0020:  0000 0000 0000 000d 1808 0031 3791 7786  ...........17.w.
+	0x0030:  1ff2 e601 0100 00                        .......
+22:43:22.122191 IP6 :: > ff02::1:ffd6:2eac: ICMP6, neighbor solicitation, who has fe80::9423:61ff:fed6:2eac, length 24
+22:43:22.222438 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:43:22.246954 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:43:22.309203 IP6 :: > ff02::1:ffbd:4b61: ICMP6, neighbor solicitation, who has fe80::6ca3:42ff:febd:4b61, length 24
+22:43:22.471274 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:43:22.475055 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:43:22.565322 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. (117)
+22:43:22.578983 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 0.f.4.d.1.d.e.f.f.f.4.5.6.a.c.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:43:22.813474 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:43:22.822653 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:43:22.843913 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 0.f.4.d.1.d.e.f.f.f.4.5.6.a.c.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:43:22.918261 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? a.a.0.a.4.b.e.f.f.f.8.a.a.1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:43:22.996854 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:43:23.080540 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 0.f.4.d.1.d.e.f.f.f.4.5.6.a.c.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:43:23.129672 IP6 fe80::4ca6:54ff:fed1:d4f0 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:43:23.194599 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:43:23.194624 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:43:23.216772 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? a.a.0.a.4.b.e.f.f.f.8.a.a.1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:43:23.288483 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:23.297331 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:43:23.297357 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:23.326337 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. (117)
+22:43:23.388706 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? c.a.e.2.6.d.e.f.f.f.1.6.3.2.4.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:43:23.388732 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:43:23.388757 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0 (110)
+22:43:23.388783 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 1/0/0 (Cache flush) HINFO (53)
+22:43:23.388808 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 (Cache flush) PTR floodlight.local., (Cache flush) AAAA fe80::4ca6:54ff:fed1:d4f0 (142)
+22:43:23.388834 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:43:23.419239 IP6 fe80::9423:61ff:fed6:2eac > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:43:23.456808 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. (117)
+22:43:23.456835 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:23.456860 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 1.6.b.4.d.b.e.f.f.f.2.4.3.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:43:23.457154 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:43:23.477554 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? a.a.0.a.4.b.e.f.f.f.8.a.a.1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:43:23.520808 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? c.a.e.2.6.d.e.f.f.f.1.6.3.2.4.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:43:23.534644 IP6 fe80::d01a:a8ff:feb4:a0aa > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:43:23.566636 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:23.611053 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local. (117)
+22:43:23.619149 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::d01a:a8ff:feb4:a0aa, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:43:23.654345 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 1.6.b.4.d.b.e.f.f.f.2.4.3.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:43:23.734459 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? c.a.e.2.6.d.e.f.f.f.1.6.3.2.4.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:43:23.912210 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:23.923298 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [3q] [5n] ANY (QM)? floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. ANY (QM)? floodlight.local. ANY (QM)? 1.6.b.4.d.b.e.f.f.f.2.4.3.a.c.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (267)
+22:43:23.956603 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::9423:61ff:fed6:2eac, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:43:23.965636 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local. (117)
+22:43:24.066830 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+22:43:24.125743 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:43:24.226660 IP6 fe80::6ca3:42ff:febd:4b61 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+22:43:24.261200 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:24.317938 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local. (117)
+22:43:24.342607 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 4/0/0 (Cache flush) TXT "", (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::4ca6:54ff:fed1:d4f0 (163)
+22:43:24.346240 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 1/0/0 (Cache flush) PTR floodlight.local. (114)
+22:43:24.404498 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:24.448209 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR _workstation._tcp.local., PTR floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local. (117)
+22:43:24.669216 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::d01a:a8ff:feb4:a0aa, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:43:24.994738 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::9423:61ff:fed6:2eac, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:43:25.169037 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:43:25.564405 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:25.680777 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [4e:a6:54:d1:d4:f0]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::4ca6:54ff:fed1:d4f0 (189)
+22:43:25.916027 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:26.022010 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [d2:1a:a8:b4:a0:aa]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::d01a:a8ff:feb4:a0aa (189)
+22:43:26.241330 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:26.353858 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [96:23:61:d6:2e:ac]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::9423:61ff:fed6:2eac (189)
+22:43:26.404246 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 4/0/0 (Cache flush) TXT "", (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::4ca6:54ff:fed1:d4f0 (163)
+22:43:26.404272 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0*- [0q] 1/0/0 (Cache flush) PTR floodlight.local. (114)
+22:43:26.504455 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:26.519137 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 PTR _workstation._tcp.local., PTR floodlight [6e:a3:42:bd:4b:61]._workstation._tcp.local., (Cache flush) TXT "", (Cache flush) SRV floodlight.local.:9 0 0, (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61 (189)
+22:43:27.046213 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::9423:61ff:fed6:2eac, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:43:27.247463 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0*- [0q] 5/0/0 (Cache flush) TXT "", (Cache flush) AAAA fe80::6ca3:42ff:febd:4b61, (Cache flush) PTR floodlight.local., (Cache flush) HINFO, (Cache flush) SRV floodlight.local.:9 0 0 (249)
+22:43:29.567917 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:29.912806 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:30.238846 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:30.410006 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:31.287874 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:36.834222 LLDP, length 47
+22:43:37.108521 92:d8:5f:1c:de:3f > ff:ff:ff:ff:ff:ff, ethertype Unknown (0x8942), length 69: 
+	0x0000:  2000 0604 0002 0000 0207 0400 0000 0000  ................
+	0x0010:  0d04 0302 0003 0602 0078 fe0c 0026 e100  .........x...&..
+	0x0020:  0000 0000 0000 000d 1808 0031 3791 7786  ...........17.w.
+	0x0030:  1ff2 e601 0100 00                        .......
+22:43:37.566671 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:37.914757 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:38.224802 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:38.408140 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:38.689073 IP 10.0.0.1 > 10.0.0.6: ICMP echo request, id 4299, seq 1, length 64
+22:43:38.690379 IP 10.0.0.6 > 10.0.0.1: ICMP echo reply, id 4299, seq 1, length 64
+22:43:38.944047 IP 10.0.0.2 > 10.0.0.6: ICMP echo request, id 4306, seq 1, length 64
+22:43:38.945274 IP 10.0.0.6 > 10.0.0.2: ICMP echo reply, id 4306, seq 1, length 64
+22:43:43.699466 ARP, Request who-has 10.0.0.1 tell 10.0.0.6, length 28
+22:43:43.708058 ARP, Request who-has 10.0.0.6 tell 10.0.0.1, length 28
+22:43:43.709282 ARP, Reply 10.0.0.6 is-at 42:b7:f3:57:e5:80, length 28
+22:43:43.737410 ARP, Reply 10.0.0.1 is-at c2:72:34:72:f2:5b, length 28
+22:43:43.955506 ARP, Request who-has 10.0.0.2 tell 10.0.0.6, length 28
+22:43:44.040307 ARP, Request who-has 10.0.0.6 tell 10.0.0.2, length 28
+22:43:44.041541 ARP, Reply 10.0.0.6 is-at 42:b7:f3:57:e5:80, length 28
+22:43:44.064344 ARP, Reply 10.0.0.2 is-at 22:ae:0f:90:01:17, length 28
+22:43:47.289236 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:51.861230 LLDP, length 47
+22:43:52.052110 92:d8:5f:1c:de:3f > ff:ff:ff:ff:ff:ff, ethertype Unknown (0x8942), length 69: 
+	0x0000:  2000 0604 0002 0000 0207 0400 0000 0000  ................
+	0x0010:  0d04 0302 0003 0602 0078 fe0c 0026 e100  .........x...&..
+	0x0020:  0000 0000 0000 000d 1808 0031 3791 7786  ...........17.w.
+	0x0030:  1ff2 e601 0100 00                        .......
+22:43:53.566688 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:53.917444 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:54.225615 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:54.411704 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:43:59.146847 IP 10.0.0.3 > 10.0.0.6: ICMP echo request, id 4313, seq 1, length 64
+22:43:59.148101 IP 10.0.0.6 > 10.0.0.3: ICMP echo reply, id 4313, seq 1, length 64
+22:44:04.154969 ARP, Request who-has 10.0.0.6 tell 10.0.0.3, length 28
+22:44:04.156196 ARP, Reply 10.0.0.6 is-at 42:b7:f3:57:e5:80, length 28
+22:44:05.154052 ARP, Request who-has 10.0.0.6 tell 10.0.0.3, length 28
+22:44:05.155253 ARP, Reply 10.0.0.6 is-at 42:b7:f3:57:e5:80, length 28
+22:44:06.873458 LLDP, length 47
+22:44:07.108673 92:d8:5f:1c:de:3f > ff:ff:ff:ff:ff:ff, ethertype Unknown (0x8942), length 69: 
+	0x0000:  2000 0604 0002 0000 0207 0400 0000 0000  ................
+	0x0010:  0d04 0302 0003 0602 0078 fe0c 0026 e100  .........x...&..
+	0x0020:  0000 0000 0000 000d 1808 0031 3791 7786  ...........17.w.
+	0x0030:  1ff2 e601 0100 00                        .......
+22:44:19.291787 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:44:19.333395 IP 10.0.0.4 > 10.0.0.6: ICMP echo request, id 4320, seq 1, length 64
+22:44:19.334964 IP 10.0.0.6 > 10.0.0.4: ICMP echo reply, id 4320, seq 1, length 64
+22:44:21.904986 LLDP, length 47
+22:44:22.168199 92:d8:5f:1c:de:3f > ff:ff:ff:ff:ff:ff, ethertype Unknown (0x8942), length 69: 
+	0x0000:  2000 0604 0002 0000 0207 0400 0000 0000  ................
+	0x0010:  0d04 0302 0003 0602 0078 fe0c 0026 e100  .........x...&..
+	0x0020:  0000 0000 0000 000d 1808 0031 3791 7786  ...........17.w.
+	0x0030:  1ff2 e601 0100 00                        .......
+22:44:24.337261 ARP, Request who-has 10.0.0.6 tell 10.0.0.4, length 28
+22:44:24.338587 ARP, Reply 10.0.0.6 is-at 42:b7:f3:57:e5:80, length 28
+22:44:25.569196 IP6 fe80::4ca6:54ff:fed1:d4f0.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:44:25.920136 IP6 fe80::d01a:a8ff:feb4:a0aa.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:44:26.230450 IP6 fe80::9423:61ff:fed6:2eac.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:44:26.410333 IP6 fe80::6ca3:42ff:febd:4b61.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+22:44:29.562891 IP 10.0.0.5 > 10.0.0.6: ICMP echo request, id 4328, seq 1, length 64
+22:44:29.564114 IP 10.0.0.6 > 10.0.0.5: ICMP echo reply, id 4328, seq 1, length 64
+22:44:29.637942 IP 10.0.0.6 > 10.0.0.1: ICMP echo request, id 4331, seq 1, length 64
+22:44:29.663940 IP 10.0.0.1 > 10.0.0.6: ICMP echo reply, id 4331, seq 1, length 64
+22:44:29.666425 IP 10.0.0.6 > 10.0.0.2: ICMP echo request, id 4332, seq 1, length 64
+22:44:29.694850 IP 10.0.0.2 > 10.0.0.6: ICMP echo reply, id 4332, seq 1, length 64
+22:44:29.697319 IP 10.0.0.6 > 10.0.0.3: ICMP echo request, id 4333, seq 1, length 64
+22:44:29.716163 IP 10.0.0.3 > 10.0.0.6: ICMP echo reply, id 4333, seq 1, length 64
+22:44:29.721236 IP 10.0.0.6 > 10.0.0.4: ICMP echo request, id 4334, seq 1, length 64
+22:44:29.752272 IP 10.0.0.4 > 10.0.0.6: ICMP echo reply, id 4334, seq 1, length 64
+22:44:29.754768 IP 10.0.0.6 > 10.0.0.5: ICMP echo request, id 4335, seq 1, length 64
+22:44:29.763635 IP 10.0.0.5 > 10.0.0.6: ICMP echo reply, id 4335, seq 1, length 64
+22:44:29.766158 IP 10.0.0.6 > 10.0.0.7: ICMP echo request, id 4336, seq 1, length 64
+22:44:29.789077 IP 10.0.0.7 > 10.0.0.6: ICMP echo reply, id 4336, seq 1, length 64
+22:44:29.796578 IP 10.0.0.6 > 10.0.0.8: ICMP echo request, id 4337, seq 1, length 64
+22:44:29.812266 IP 10.0.0.8 > 10.0.0.6: ICMP echo reply, id 4337, seq 1, length 64
+22:44:29.993042 IP 10.0.0.7 > 10.0.0.6: ICMP echo request, id 4343, seq 1, length 64
+22:44:29.994454 IP 10.0.0.6 > 10.0.0.7: ICMP echo reply, id 4343, seq 1, length 64
+22:44:34.579537 ARP, Request who-has 10.0.0.5 tell 10.0.0.6, length 28
+22:44:34.633782 ARP, Reply 10.0.0.5 is-at 9e:70:ab:3e:15:eb, length 28
+22:44:34.643516 ARP, Request who-has 10.0.0.1 tell 10.0.0.6, length 28
+22:44:34.675517 ARP, Request who-has 10.0.0.2 tell 10.0.0.6, length 28
+22:44:34.677415 ARP, Request who-has 10.0.0.6 tell 10.0.0.1, length 28
+22:44:34.678644 ARP, Reply 10.0.0.6 is-at 42:b7:f3:57:e5:80, length 28
+22:44:34.682360 ARP, Reply 10.0.0.1 is-at c2:72:34:72:f2:5b, length 28
+22:44:34.707624 ARP, Request who-has 10.0.0.3 tell 10.0.0.6, length 28
+22:44:34.724237 ARP, Request who-has 10.0.0.4 tell 10.0.0.6, length 28
+22:44:34.739797 ARP, Request who-has 10.0.0.6 tell 10.0.0.2, length 28
+22:44:34.741024 ARP, Reply 10.0.0.6 is-at 42:b7:f3:57:e5:80, length 28
+22:44:34.746038 ARP, Reply 10.0.0.2 is-at 22:ae:0f:90:01:17, length 28
+22:44:34.762639 ARP, Reply 10.0.0.3 is-at 62:52:cd:31:e2:b5, length 28
+22:44:34.771717 ARP, Request who-has 10.0.0.7 tell 10.0.0.6, length 28
+22:44:34.797798 ARP, Reply 10.0.0.7 is-at 2a:23:2b:66:dd:b8, length 28
+22:44:34.798287 ARP, Reply 10.0.0.4 is-at 0e:86:76:35:e9:b7, length 28
+22:44:34.803549 ARP, Request who-has 10.0.0.8 tell 10.0.0.6, length 28
+22:44:34.848121 ARP, Request who-has 10.0.0.6 tell 10.0.0.8, length 28
+22:44:34.849502 ARP, Reply 10.0.0.6 is-at 42:b7:f3:57:e5:80, length 28
+22:44:34.866734 ARP, Reply 10.0.0.8 is-at 3a:f0:57:3e:0e:67, length 28
+22:44:36.935331 LLDP, length 47
+22:44:37.211921 92:d8:5f:1c:de:3f > ff:ff:ff:ff:ff:ff, ethertype Unknown (0x8942), length 69: 
+	0x0000:  2000 0604 0002 0000 0207 0400 0000 0000  ................
+	0x0010:  0d04 0302 0003 0602 0078 fe0c 0026 e100  .........x...&..
+	0x0020:  0000 0000 0000 000d 1808 0031 3791 7786  ...........17.w.
+	0x0030:  1ff2 e601 0100 00                        .......
+22:44:40.173992 IP 10.0.0.8 > 10.0.0.6: ICMP echo request, id 4351, seq 1, length 64
+22:44:40.175268 IP 10.0.0.6 > 10.0.0.8: ICMP echo reply, id 4351, seq 1, length 64
+22:44:51.962051 LLDP, length 47
+22:44:52.178383 92:d8:5f:1c:de:3f > ff:ff:ff:ff:ff:ff, ethertype Unknown (0x8942), length 69: 
+	0x0000:  2000 0604 0002 0000 0207 0400 0000 0000  ................
+	0x0010:  0d04 0302 0003 0602 0078 fe0c 0026 e100  .........x...&..
+	0x0020:  0000 0000 0000 000d 1808 0031 3791 7786  ...........17.w.
+	0x0030:  1ff2 e601 0100 00                        .......
+22:45:06.983897 LLDP, length 47
+22:45:07.246038 92:d8:5f:1c:de:3f > ff:ff:ff:ff:ff:ff, ethertype Unknown (0x8942), length 69: 
+	0x0000:  2000 0604 0002 0000 0207 0400 0000 0000  ................
+	0x0010:  0d04 0302 0003 0602 0078 fe0c 0026 e100  .........x...&..
+	0x0020:  0000 0000 0000 000d 1808 0031 3791 7786  ...........17.w.
+	0x0030:  1ff2 e601 0100 00                        .......
+22:45:22.019133 LLDP, length 47
+22:45:22.202592 92:d8:5f:1c:de:3f > ff:ff:ff:ff:ff:ff, ethertype Unknown (0x8942), length 69: 
+	0x0000:  2000 0604 0002 0000 0207 0400 0000 0000  ................
+	0x0010:  0d04 0302 0003 0602 0078 fe0c 0026 e100  .........x...&..
+	0x0020:  0000 0000 0000 000d 1808 0031 3791 7786  ...........17.w.
+	0x0030:  1ff2 e601 0100 00                        .......
+22:45:23.293966 IP6 fe80::90d8:5fff:fe1c:de3f.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
